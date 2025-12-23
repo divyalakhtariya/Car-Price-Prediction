@@ -1,4 +1,4 @@
-# Car Prediction
+# Car Price Prediction
 
 ## 📖 Overview
 **Car Prediction** is a machine learning project that focuses on predicting car prices based on various features such as brand, model, year, mileage, and other specifications. The project demonstrates the complete **data science workflow**, including data preprocessing, model training, evaluation, and prediction.
